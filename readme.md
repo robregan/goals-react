@@ -1,1 +1,2 @@
-ending this project here to use for boilerplate express api. will add more info and the continued repo shortly. 
+- continuation of https://github.com/robregan/goals
+- more info to follow
